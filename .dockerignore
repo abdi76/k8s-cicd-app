@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+coverage/
+.git
+.gitignore
+README.md
+.env
+.nyc_output
+.eslintrc.js
+docker-compose.yml
+Jenkinsfile
+k8s/
+monitoring/
+test/
+.github/
+*.md

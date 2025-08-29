@@ -1,0 +1,16 @@
+# Global owners
+* @your-username
+
+# Kubernetes manifests
+/k8s/ @your-username
+
+# CI/CD pipelines
+/.github/workflows/ @your-username
+/Jenkinsfile @your-username
+
+# Application code
+/app.js @your-username
+/test/ @your-username
+
+# Documentation
+README.md @your-username
