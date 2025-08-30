@@ -44,8 +44,8 @@ npm run dev
 ### Docker Deployment
 ```bash
 # Build and run locally
-docker build -t k8s-cicd-app .
-docker run -p 3000:3000 k8s-cicd-app
+sudo docker build -t k8s-cicd-app .
+sudo docker run -p 3000:3000 k8s-cicd-app
 ```
 
 ### Kubernetes Deployment
